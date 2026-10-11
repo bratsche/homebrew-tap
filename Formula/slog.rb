@@ -2,7 +2,7 @@ class Slog < Formula
   desc "Console.app for the command-line: macOS and iOS unified logs and crash reports"
   homepage "https://github.com/bratsche/slog"
   url "https://github.com/bratsche/slog/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f256696fd8d8a91d06bddf0d0350a1d164c477da17bde63fe1acd1db08717735"
+  sha256 "24f2f3f61282e14ea40c6bdac3290fc92a7120545782dd468b3098e7f37f3d59"
   license "MIT"
 
   depends_on "rust" => :build
